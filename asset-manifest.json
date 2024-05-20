@@ -1,7 +1,9 @@
 {
   "files": {
     "main.css": "https://mrpromodern.github.io/cost-control-pages/static/css/main.04daef74.css",
-    "main.js": "https://mrpromodern.github.io/cost-control-pages/static/js/main.b3ced86f.js",
+    "main.js": "https://mrpromodern.github.io/cost-control-pages/static/js/main.1722feb2.js",
+    "static/js/62.5c29cebb.chunk.js": "https://mrpromodern.github.io/cost-control-pages/static/js/62.5c29cebb.chunk.js",
+    "static/js/16.83300c43.chunk.js": "https://mrpromodern.github.io/cost-control-pages/static/js/16.83300c43.chunk.js",
     "static/media/roboto-latin-500-normal.woff2": "https://mrpromodern.github.io/cost-control-pages/static/media/roboto-latin-500-normal.f25d774ecfe0996f8eb5.woff2",
     "static/media/roboto-latin-700-normal.woff2": "https://mrpromodern.github.io/cost-control-pages/static/media/roboto-latin-700-normal.227c93190fe7f82de3f8.woff2",
     "static/media/roboto-latin-400-normal.woff2": "https://mrpromodern.github.io/cost-control-pages/static/media/roboto-latin-400-normal.b009a76ad6afe4ebd301.woff2",
@@ -60,10 +62,12 @@
     "static/media/roboto-greek-ext-700-normal.woff": "https://mrpromodern.github.io/cost-control-pages/static/media/roboto-greek-ext-700-normal.249853776d22a271b2b5.woff",
     "index.html": "https://mrpromodern.github.io/cost-control-pages/index.html",
     "main.04daef74.css.map": "https://mrpromodern.github.io/cost-control-pages/static/css/main.04daef74.css.map",
-    "main.b3ced86f.js.map": "https://mrpromodern.github.io/cost-control-pages/static/js/main.b3ced86f.js.map"
+    "main.1722feb2.js.map": "https://mrpromodern.github.io/cost-control-pages/static/js/main.1722feb2.js.map",
+    "62.5c29cebb.chunk.js.map": "https://mrpromodern.github.io/cost-control-pages/static/js/62.5c29cebb.chunk.js.map",
+    "16.83300c43.chunk.js.map": "https://mrpromodern.github.io/cost-control-pages/static/js/16.83300c43.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.04daef74.css",
-    "static/js/main.b3ced86f.js"
+    "static/js/main.1722feb2.js"
   ]
 }
